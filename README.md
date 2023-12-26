@@ -1,3 +1,3 @@
 # Calculator
  เครื่องคิดเลข
- <img src =/+.PNG>
+ <img src =/-.PNG>
