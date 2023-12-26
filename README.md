@@ -1,3 +1,3 @@
 # Calculator
  เครื่องคิดเลข
- <img src =/nox.JPG>
+ <img src =/1.png>
