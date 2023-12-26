@@ -1,3 +1,3 @@
 # Calculator
  เครื่องคิดเลข
- <img src =/คูณ.PNG>
+ <img src =/หาร.PNG>
